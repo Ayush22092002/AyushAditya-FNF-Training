@@ -1,0 +1,7 @@
+﻿~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TO ADD NEW CUSTOMER ------->PRESS N
+TO SEARCH BY NAME---------->PRESS F
+TO SEARCH BY ID------------>PRESS I
+TO UPDATE THE CUSTOMER----->PRESS U
+PS: ANY OTHER KEY IS CONSIDERED AS EXIT.....
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
