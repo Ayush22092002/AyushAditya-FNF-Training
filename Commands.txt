@@ -1,2 +1,2 @@
-csc ./Ex01Basics.cs
-Ex01Basics.exe
+csc <file-name>.cs
+<file-name>.exe
