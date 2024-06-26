@@ -1,0 +1,2 @@
+csc ./Ex01Basics.cs
+Ex01Basics.exe
